@@ -1,0 +1,5 @@
+{
+  "name": "Bank Transaction Fraud Detection System",
+  "description": "A data-driven system to detect fraudulent bank transactions using AI and visualize fraud patterns in real-time. This application simulates the process of data extraction, cleaning, analysis, modeling, and visualization to help banks identify suspicious activities.",
+  "requestFramePermissions": []
+}
